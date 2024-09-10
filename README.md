@@ -6,6 +6,8 @@ Curso de Desenvolvendo pacotes e plugins em Flutter
 
 1. Introdução;
 
+- Arquitetura orientada a pacotes;
+
 2. Instalação;
 
 - Instalação do Flutter;
